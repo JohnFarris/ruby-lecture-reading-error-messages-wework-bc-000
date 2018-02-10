@@ -1,2 +1,2 @@
 1 + 1
-one = "the loneliest"
+x = 1
